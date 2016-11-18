@@ -25,11 +25,11 @@
 	}
 
 	.Social_icons2{
-    position: absolute;
-    width: 123px;
-    margin-left: 130px;
-    margin-top: 5px;
-	}
+	position: absolute;
+	width: 123px;
+	margin-left: -45px;
+	margin-top: 48px;
+		}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
