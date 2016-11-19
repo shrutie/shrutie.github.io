@@ -19,16 +19,16 @@
 	}
 	.Social_icons{
 		position: absolute;
-		margin-top: 7px;
+		margin-top: -16px;
 		width: 98px;
-		margin-left: 15px;
+		margin-left: 13px;
 	}
 
 	.Social_icons2{
-	position: absolute;
-	width: 123px;
-	margin-left: -45px;
-	margin-top: 48px;
+		position: absolute;
+		width: 123px;
+		margin-left: -45px;
+		margin-top: 48px;
 		}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
